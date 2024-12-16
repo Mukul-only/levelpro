@@ -1,5 +1,5 @@
 import Wrapper from "../UI/Wrapper";
-import I1 from "../assets/I_001.svg";
+import I1 from "../assets/i_001.svg";
 const Cta = (props) => {
   return (
     <Wrapper className="flex items-center gap-4 py-20">
@@ -11,7 +11,7 @@ const Cta = (props) => {
         <h1 className="text-4xl text-dark ">
           Your <span className="font-bold">Trusted Partner</span>
         </h1>
-        <p className="mt-3 text-lg text-para">
+        <p className="mt-3 text-xl text-para">
           LevelPro, India’s trusted leader in career related consultancy, has
           been turning dreams into reality and shaping the futures of ambitious
           students for over 10 years. With a legacy of excellence, we are your
